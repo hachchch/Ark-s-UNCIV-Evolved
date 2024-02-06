@@ -274,26 +274,26 @@
         {
 		"name": "Ichtyosaurus",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Coral Zone"],
+		"terrainsCanBeFoundOn": ["Stony Coral"],
 		"culture": 1,
 		"improvement": "Fishing Boats",
-		"uniques": ["Generated on every [10] tiles <in [Coral Zone] tiles>","Generated on every [9] tiles <in [Featureless] [Coral Zone] tiles>"]
+		"uniques": ["Generated on every [10] tiles <in [Coral Zone] tiles>","Generated on every [9] tiles <in [Featureless] [Stony Coral] tiles>"]
 	},
         {
 		"name": "Hesperornis",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Coral Zone"],
+		"terrainsCanBeFoundOn": ["Stony Coral"],
 		"gold": 1,
 		"improvement": "Fishing Boats",
-		"uniques": ["Generated on every [20] tiles <in [Coral Zone] tiles>","Generated on every [11] tiles <in [Featureless] [Coral Zone] tiles>"]
+		"uniques": ["Generated on every [20] tiles <in [Stony Coral] tiles>","Generated on every [11] tiles <in [Featureless] [Stony Coral] tiles>"]
 	},
         {
 		"name": "Sauropterygia",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Coral Zone"],
+		"terrainsCanBeFoundOn": ["Stony Coral"],
 		"gold": 2,
 		"improvement": "Fishing Boats",
-		"uniques": ["Generated on every [30] tiles <in [Coral Zone] tiles>","Generated on every [22] tiles <in [Featureless] [Coral Zone] tiles>"]
+		"uniques": ["Generated on every [30] tiles <in [Stony Coral] tiles>","Generated on every [22] tiles <in [Featureless] [Stony Coral] tiles>"]
 	},
         {
 		"name": "Volcanic Edestus",
