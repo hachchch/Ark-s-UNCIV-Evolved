@@ -679,8 +679,16 @@
 		"occursOn": ["Coast"],
 		"uniques": ["Rare feature"]
 	},
+	{
+		"name": "Soft Coral",
+                "food": 1,
+		"type": "TerrainFeature",
+		"defenceBonus": 0.10,
+                "occursOn": ["Ocean"],
+		"uniques": ["Rare feature"]
+	},
         {
-		"name": "Coral Zone",
+		"name": "Stony Coral",
                 "food": 1,
 		"type": "TerrainFeature",
 		"defenceBonus": 0.10,
